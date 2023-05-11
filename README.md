@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zdanielm
-- 👀 I’m interested in cryptography, blockchain and functional programming
+- 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Computer Engineering at university
 
 <!---
