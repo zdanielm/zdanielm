@@ -14,8 +14,8 @@
 ## Misc.:
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&style=flat&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&style=flat&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&style=flat&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&style=flat&logoColor=white)
 
-## Current Interests:
-![larq](https://img.shields.io/badge/-Larq%20(BNN)-darkgreen?logo=larq&style=flat&logoColor=white) ![ELI5](https://img.shields.io/badge/-ELI5%20(XAI)-darkblue?logo=larq&style=flat&logoColor=white) ![Shapash](https://img.shields.io/badge/-Shapash%20(XAI)-f4c000?logo=larq&style=flat&logoColor=white)
+## For Upcoming Projects:
+![HTMX](https://img.shields.io/badge/-HTMX-3366CC?logo=htmx&style=flat&logoColor=white) ![BootStrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&style=flat&logoColor=white)
 
 # [roadmap.sh](https://roadmap.sh) stats
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/662913dc4e8cd00d388a86e0?variant=dark)](https://roadmap.sh)
