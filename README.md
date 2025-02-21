@@ -1,7 +1,7 @@
 # Whoami
 - 👋 Hi, I’m @zdanielm
 - 👀 I’m interested in Data Engineering, Explainable AI & Binary Neural Networks (BNN)<!---, currently dipping foot into Geospatial Data Science too-->
-- 🌱 I’m currently learning Data Science (MSc) at university
+- 🌱 I’m currently learning Data Science (MSc) at university, my work is mostly centered around NLP
 
 # (Relevant) Tech Knowledge
 
@@ -13,6 +13,9 @@
 
 ## Misc.:
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&style=flat&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&style=flat&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?logo=apachespark&style=flat&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&style=flat&logoColor=white)
+
+### Configs:
+![dotenv](https://img.shields.io/badge/-.env-fa7735?logo=dotenv&style=flat&logoColor=white) ![yaml](https://img.shields.io/badge/-YAML%20(&%20AWS%20CloudFormation)-CB171E?logo=yaml&style=flat&logoColor=white)
 
 ## For Upcoming Projects:
 ![HTMX](https://img.shields.io/badge/-HTMX-3366CC?logo=htmx&style=flat&logoColor=white) ![BootStrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&style=flat&logoColor=white)
