@@ -17,6 +17,9 @@
 ### Configs:
 ![dotenv](https://img.shields.io/badge/-.env-fa7735?logo=dotenv&style=flat&logoColor=white) ![yaml](https://img.shields.io/badge/-YAML%20(&%20AWS%20CloudFormation)-CB171E?logo=yaml&style=flat&logoColor=white)
 
+## Tools I'm interested in, but might not use at work:
+![torch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&style=flat&logoColor=white) ![pyg](https://img.shields.io/badge/-PyG%20(PyTorch%20Geometric)-3C2179?logo=pyg&style=flat&logoColor=white) ![tinygrad](https://img.shields.io/badge/-Tinygrad-FFFFFF?logo=tinygrad&style=flat&logoColor=black)
+
 ## For Upcoming Projects:
 ![HTMX](https://img.shields.io/badge/-HTMX-3366CC?logo=htmx&style=flat&logoColor=white) ![BootStrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&style=flat&logoColor=white)
 
