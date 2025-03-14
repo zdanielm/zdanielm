@@ -1,6 +1,6 @@
 # Whoami
 ### 👋 Hi, I’m @zdanielm
-### 👀 I’m interested in Big Data and almost anything Machine Learning related.
+### 👀 I’m interested in Big Data and almost anything Machine Learning related, even Quantum Machine Learning (QML)
 ### 🌱 I’m currently learning Data Science (MSc) at university, my work is mostly centered around NLP
 
 # (Relevant) Tech Knowledge
