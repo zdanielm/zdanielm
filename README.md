@@ -1,6 +1,6 @@
 # Whoami
 ### 👋 Hi, I’m @zdanielm
-### 👀 I’m interested in Big Data and almost anything Machine Learning related, even Quantum Machine Learning (QML)
+### 👀 I’m interested in Big Data and almost anything Machine Learning related, mostly AI-specific hardware and AI for science.
 <!--### ⚡ Computer (Science) Engineering BSc alumni, so my hobbies include Hardware Hacking, a bit of Reverse Engineering and even stego (steganography)-->
 ### 🌱 I’m currently learning Data Science (MSc) at university, my work is mostly centered around NLP
 ### 💻 Will Shortly Be Working On *My Thesis*: ***Graph-theoretic analysis of neural networks***
