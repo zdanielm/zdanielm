@@ -6,9 +6,10 @@
 ### 💻 Will Shortly Be Working On *My Thesis*: ***Graph-theoretic analysis of neural networks***
 
 ## Spoken languages:
-- 🇬🇧 English
-- 🇫🇷 French
-- 🇪🇸 Spanish
+- <img src="https://flagcdn.com/hu.svg" width="20"/> Hungarian
+- <img src="https://flagcdn.com/gb.svg" width="20"/> English
+- <img src="https://flagcdn.com/fr.svg" width="20"/> French
+- <img src="https://flagcdn.com/es.svg" width="20"/> Spanish
 
 # (Relevant) Tech Knowledge
 
