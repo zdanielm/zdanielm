@@ -5,6 +5,11 @@
 ### 🌱 I’m currently learning Data Science (MSc) at university, my work is mostly centered around NLP
 ### 💻 Will Shortly Be Working On *My Thesis*: ***Graph-theoretic analysis of neural networks***
 
+## Spoken languages:
+- 🇬🇧 English
+- 🇫🇷 French
+- 🇪🇸 Spanish
+
 # (Relevant) Tech Knowledge
 
 ## Programming Languages (most used):
