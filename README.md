@@ -3,7 +3,7 @@
 ### 👀 I’m interested in almost anything Machine Learning related, mostly AI-specific hardware, AI for science and Sustainable AI.
 <!--### ⚡ Computer (Science) Engineering BSc alumni, so my hobbies include Hardware Hacking, a bit of Reverse Engineering and even stego (steganography)-->
 ### 🌱 I’m currently learning Data Science (MSc) at university, my work is mostly centered around NLP
-### 💻 Currently Working On *My Thesis*: ***Graph-theoretic analysis of neural networks***
+### 💻 Finished *My TDK Thesis*: ***Graph-Theoretic Approaches to Early Optimization of Neural Networks***
 
 ## Spoken languages:
 - <img src="https://flagcdn.com/hu.svg" width="20"/> Hungarian
