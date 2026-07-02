@@ -1,9 +1,9 @@
 # Whoami
 ### 👋 Hi, I’m @zdanielm
-### 👀 I’m interested in almost anything Machine Learning related, mostly AI-specific hardware, AI for science and Sustainable AI.
+### 👀 I’m interested in meaningful Machine Learning, mostly AI-specific hardware, AI for science and Sustainable AI.
 <!--### ⚡ Computer (Science) Engineering BSc alumni, so my hobbies include Hardware Hacking, a bit of Reverse Engineering and even stego (steganography)-->
-### 🌱 I’m currently learning Data Science (MSc) at university, my work is mostly centered around NLP
-### 💻 Finished *My TDK Thesis*: ***Graph-Theoretic Approaches to Early Optimization of Neural Networks***
+### 🌱 I’m a Certified Data Scientist, I mostly do Network Science related work
+### 💻 I did a *TDK Thesis* on the ***Graph-Theoretic Approaches to Early Optimization of Neural Networks***
 
 ## Spoken languages:
 - <img src="https://flagcdn.com/hu.svg" width="20"/> Hungarian
