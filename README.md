@@ -2,7 +2,7 @@
 ### 👋 Hi, I’m @zdanielm
 ### 👀 I’m interested in meaningful Machine Learning, mostly AI-specific hardware, AI for science and Sustainable AI.
 <!--### ⚡ Computer (Science) Engineering BSc alumni, so my hobbies include Hardware Hacking, a bit of Reverse Engineering and even stego (steganography)-->
-### 🌱 I’m a Certified Data Scientist, I mostly do Network Science related work
+### 🌱 I’m a Certified Data Scientist & future PhD student. My work is related to Network Science most of the time.
 ### 💻 I did a *TDK Thesis* on the ***Graph-Theoretic Approaches to Early Optimization of Neural Networks***
 
 ## Spoken languages:
@@ -12,6 +12,9 @@
 - <img src="https://flagcdn.com/es.svg" width="20"/> Spanish
 
 # (Relevant) Tech Knowledge
+
+## Fields of Interest
+![ML](https://img.shields.io/badge/-Machine%20Learning-EE4C2C?style=for-the-badge) ![NetSci](https://img.shields.io/badge/-Network%20Science-2C7FB8?style=for-the-badge)
 
 ## Programming Languages (most used):
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=for-the-badge&logoColor=white) ![C](https://img.shields.io/badge/-C%20(with%20ctypes)-A8B9CC?logo=c&style=for-the-badge&logoColor=white)
