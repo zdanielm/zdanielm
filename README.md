@@ -34,7 +34,7 @@
 ## For Upcoming Projects:
 ![HTMX](https://img.shields.io/badge/-HTMX-3366CC?logo=htmx&style=for-the-badge&logoColor=white) ![BootStrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=white)
 
-# [roadmap.sh](https://roadmap.sh) stats
+<!---# [roadmap.sh](https://roadmap.sh) stats
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/662913dc4e8cd00d388a86e0?variant=dark)](https://roadmap.sh)
 <!---
 zdanielm/zdanielm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
