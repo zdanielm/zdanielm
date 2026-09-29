@@ -2,7 +2,7 @@
 ### 👋 Hi, I’m @zdanielm
 ### 👀 I’m interested in meaningful Machine Learning, mostly AI-specific hardware, AI for science and Sustainable AI.
 <!--### ⚡ Computer (Science) Engineering BSc alumni, so my hobbies include Hardware Hacking, a bit of Reverse Engineering and even stego (steganography)-->
-### 🌱 I’m a Certified Data Scientist & future PhD student. My work is related to Network Science most of the time.
+### 🌱 I’m a Certified Data Scientist, now a PhD student. My work is related to Network Science most of the time.
 ### 💻 I did a *TDK Thesis* on the ***Graph-Theoretic Approaches to Early Optimization of Neural Networks***
 
 ## Spoken languages:
@@ -31,8 +31,8 @@
 ## Tools I'm interested in, but might not use at work:
 ![pyg](https://img.shields.io/badge/-PyG%20(PyTorch%20Geometric)-3C2179?logo=pyg&style=for-the-badge&logoColor=white) ![cytoscape](https://img.shields.io/badge/-Cytoscape-F7DF1E?logo=cytoscapedotjs&style=for-the-badge&logoColor=black)
 
-## For Upcoming Projects:
-![HTMX](https://img.shields.io/badge/-HTMX-3366CC?logo=htmx&style=for-the-badge&logoColor=white) ![BootStrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&style=for-the-badge&logoColor=white)
+## For Personal Projects:
+![marimo](https://img.shields.io/badge/-Marimo%20Notebooks-47A141?logo=marimo&style=for-the-badge&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&style=for-the-badge&logoColor=white) ![candle](https://img.shields.io/badge/-Candle%20(Rust%20ML)-FF6633?logo=candle&style=for-the-badge&logoColor=black)
 
 ## Profiles
 **Find me @ <a href="https://sifa.id/p/zdanielm.eurosky.social" target="_blank">SIFA ID</a>**
