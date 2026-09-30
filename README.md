@@ -32,7 +32,7 @@
 ![pyg](https://img.shields.io/badge/-PyG%20(PyTorch%20Geometric)-3C2179?logo=pyg&style=for-the-badge&logoColor=white) ![cytoscape](https://img.shields.io/badge/-Cytoscape-F7DF1E?logo=cytoscapedotjs&style=for-the-badge&logoColor=black)
 
 ## For Personal Projects:
-![marimo](https://img.shields.io/badge/-Marimo%20Notebooks-47A141?logo=marimo&style=for-the-badge&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&style=for-the-badge&logoColor=white) ![candle](https://img.shields.io/badge/-Candle%20(Rust%20ML)-FF6633?logo=candle&style=for-the-badge&logoColor=black)
+![marimo](https://img.shields.io/badge/-Marimo%20Notebooks-47A141?logo=circle&style=for-the-badge&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&style=for-the-badge&logoColor=white) ![candle](https://img.shields.io/badge/-Candle%20(Rust%20ML)-FF6633?logo=niri&style=for-the-badge&logoColor=white)
 
 ## Profiles
 **Find me @ <a href="https://sifa.id/p/zdanielm.eurosky.social" target="_blank">SIFA ID</a>**
