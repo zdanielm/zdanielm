@@ -30,8 +30,6 @@
 | <img src="https://flagcdn.com/fr.svg" width="20"/> French | ✔️ |
 | <img src="https://flagcdn.com/es.svg" width="20"/> Spanish | ✔️ |
 
-> 💡 Adjust the proficiency column to whatever is accurate, or delete it.
-
 ---
 
 ## 🧰 Tech stack
