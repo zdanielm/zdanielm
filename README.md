@@ -87,7 +87,7 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zdanielm&show_icons=true&hide_border=true&theme=transparent&title_color=2C7FB8&icon_color=EE4C2C&text_color=808080" alt="GitHub stats"/>
+<!--img height="170" src="https://github-readme-stats.vercel.app/api?username=zdanielm&show_icons=true&hide_border=true&theme=transparent&title_color=2C7FB8&icon_color=EE4C2C&text_color=808080" alt="GitHub stats"/-->
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdanielm&layout=compact&hide_border=true&theme=transparent&title_color=2C7FB8&text_color=808080" alt="Top languages"/>
 
 </div>
