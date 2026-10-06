@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2C7FB8,100:EE4C2C&text=Hi,%20I'm%20YOUR%20NAME&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=PhD%20student%20%C2%B7%20Network%20Science%20%C2%B7%20Meaningful%20ML&descAlignY=60&descSize=16" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2C7FB8,100:EE4C2C&text=Hi,%20I'm%20@zdanielm&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=PhD%20student%20%C2%B7%20Network%20Scientist%20%C2%B7%20Meaningful%20ML&descAlignY=60&descSize=16" alt="header"/>
 
 <a href="https://github.com/zdanielm">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C7FB8&center=true&vCenter=true&width=620&lines=Certified+Data+Scientist+%F0%9F%93%8A;PhD+student+in+Network+Science+%F0%9F%95%B8%EF%B8%8F;AI-specific+hardware+%26+Sustainable+AI+%F0%9F%8C%B1;AI+for+science+%F0%9F%94%AC" alt="Typing SVG"/>
