@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2C7FB8,100:EE4C2C&text=Hi,%20I'm%20@zdanielm&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=PhD%20student%20%C2%B7%20Network%20Scientist%20%C2%B7%20Meaningful%20ML&descAlignY=60&descSize=16" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2C7FB8,100:EE4C2C&text=Hi,%20I'm%20@zdanielm&fontColor=ffffff&fontSize=40&fontAlignY=38&desc=PhD%20Researcher%20%C2%B7%20Network%20Scientist%20%C2%B7%20Meaningful%20ML&descAlignY=60&descSize=16" alt="header"/>
 
 <a href="https://github.com/zdanielm">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C7FB8&center=true&vCenter=true&width=620&lines=Certified+Data+Scientist+%F0%9F%93%8A;PhD+researcher+in+Network+Science+%F0%9F%95%B8%EF%B8%8F;AI-specific+hardware+%26+Sustainable+AI+%F0%9F%8C%B1;AI+for+science+%F0%9F%94%AC" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2C7FB8&center=true&vCenter=true&width=620&lines=Certified+Data+Scientist+%F0%9F%93%8A;PhD+researcher+in+Network+Science+%F0%9F%95%B8%EF%B8%8F;" alt="Typing SVG"/>
 </a>
 
 ![ML](https://img.shields.io/badge/-Machine%20Learning-EE4C2C?style=for-the-badge)
 ![NetSci](https://img.shields.io/badge/-Network%20Science-2C7FB8?style=for-the-badge)
-![Sustainable AI](https://img.shields.io/badge/-Sustainable%20AI-2E8B57?style=for-the-badge)
-![AI Hardware](https://img.shields.io/badge/-AI%20Hardware-6A5ACD?style=for-the-badge)
+![Low-level Languages](https://img.shields.io/badge/-Low--level%20Languages-2E8B57?style=for-the-badge)
 
 </div>
 
@@ -17,9 +16,10 @@
 
 ## 👋 About me
 
-- 👀 I'm interested in **meaningful Machine Learning**: AI-specific hardware, AI for science and Sustainable AI.
+- 👀 I'm interested in **meaningful Machine Learning** and **Network Science**.
 - 🎓 Certified Data Scientist, now a **PhD student**. My work mostly revolves around **Network Science**.
-- 📄 My TDK thesis: ***Graph-Theoretic Approaches to Early Optimization of Neural Networks***
+- 📄 My TDK thesis: ***Graph-Theoretic Approaches to Early Optimization of Neural Networks***.
+- 🧪 Researching the intersection of machine learning and network science: ***[RAEN (Relationship-Aware EliminatioN)](https://github.com/zdanielm/relationship-aware-elimination)***
 - 🌱 Currently exploring: Rust for ML (Candle), graph learning (PyG), and Marimo notebooks.
 <!-- - ⚡ Computer Engineering BSc alumni, so my hobbies include Hardware Hacking, a bit of Reverse Engineering and even stego (steganography) -->
 
@@ -94,7 +94,7 @@
 
 ---
 
-## 🔗 Find me
+<!--## 🔗 Find me
 
 <div align="center">
 
