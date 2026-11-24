@@ -16,6 +16,7 @@
 
 ## 👋 About me
 
+- 📑 IT consultant by day, reader of theatre plays by night...
 - 👀 I'm interested in **meaningful Machine Learning** and **Network Science**.
 - 🎓 Certified Data Scientist, now a **PhD student**. My work mostly revolves around **Network Science**.
 - 📄 My TDK thesis: ***Graph-Theoretic Approaches to Early Optimization of Neural Networks***.
